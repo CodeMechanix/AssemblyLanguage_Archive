@@ -1,7 +1,4 @@
-;   "Know Yourself"
-;	Slack_Coder(Mashod Rana)
-;	University of Asia Pacific
-;==========================================
+
 
 include emu8086.inc
 .MODEL SMALL
