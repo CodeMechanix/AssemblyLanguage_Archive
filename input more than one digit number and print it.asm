@@ -1,8 +1,3 @@
-;   "Know Yourself"
-;	Slack_Coder(Mashod Rana)
-;	University of Asia Pacific
-;==========================================
-
 INCLUDE EMU8086.INC
 org 100h
  
